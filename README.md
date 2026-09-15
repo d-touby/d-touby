@@ -1,68 +1,17 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Diga Rigardy touby</h1>
+<h3 align="center">A passionate frontend developer from indonesia</h3>
 
-# 👋 Hi, I'm Diga Rigardy Touby
+- 🌱 I’m currently learning **React.js, PHP, Python,**
 
-### 💻 Web Developer & IT Support
+- 📫 How to reach me **rigardytouby@gmail.com**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Web+Developer;IT+Support+Specialist;Always+Learning+New+Things" alt="Typing SVG" />
+- ⚡ Fun fact **I think, i like learn somethink new**
 
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/diga-rigardy-touby-467992389/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/diga-rigardy-touby-467992389/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/rigardy_touby/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/rigardy_touby/?hl=en" height="30" width="40" /></a>
+</p>
 
----
-
-### 🚀 About Me
-
-- 🌐 Fokus pada **Web Development** & **IT Support**
-- 🔭 Saat ini sedang mendalami **Python, PHP, MySQL**
-- 🌱 Selalu belajar hal baru di dunia teknologi
-- ⚡ Suka membangun solusi yang simple, efektif, dan rapi
-- 📫 Terbuka untuk kolaborasi & diskusi project
-
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
----
-
-### 🌐 Connect With Me
-
-<div align="center">
-
-| Platform | Link |
-|----------|------|
-| 📧 Email | [rigardytouby@email.com](mailto:rigardyotuby@email.com) |
-| 💼 LinkedIn | [linkedin.com/in/diga rigardy touby](https://www.linkedin.com/in/diga-rigardy-touby-467992389/) |
-| 📸 Instagram | [@rigardy-touby](https://www.instagram.com/rigardy_touby/?hl=en) |
-
-</div>
-
-<div align="center">
-
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=d-touby&color=blueviolet&style=for-the-badge)
-
-⭐️ _From [Diga Rigardy Touby](https://github.com/d-touby)_
-
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
